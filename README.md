@@ -1,4 +1,4 @@
-# Apredizagem Informatica - Logistica 1° Semestre
+[Apresentação informatica final.pptx](https://github.com/user-attachments/files/17000072/Apresentacao.informatica.final.pptx)# Apredizagem Informatica - Logistica 1° Semestre
 
 Template para as atividades em Informática Aplicada, aprendendo a utilização do repositório digital GitHub, Exel, Power BI etc. 
 
@@ -14,7 +14,9 @@ Atividades baseadas para promover melhor utilização e desenvovimento das plata
 
 Apresentação teve como princípal objetivo, dividir aos colegas suas características pessoais de forma criativa atravéz de slides, usando as ferramentas como o Power Point, Canva...
 
-[ver apresentação](#Apresentação informatica final.pptx)
+[ver apresentação][Uploading Apresentação informatica final.pptx…]()
+
+
 
 
 2 - Atividade Usando Formulas e Dados Abertos
