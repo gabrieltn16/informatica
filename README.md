@@ -6,7 +6,7 @@ Atividades baseadas para promover melhor utilização e desenvovimento das plata
 
 # Índice
 
-  *[Atividades](#Atividade Informatica)
+  * [Atividades](#Atividade-Informatica)
 
 # Atividades
 
