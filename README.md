@@ -14,7 +14,7 @@ Atividades baseadas para promover melhor utilização e desenvovimento das plata
 
 Apresentação teve como princípal objetivo, dividir aos colegas suas características pessoais de forma criativa atravéz de slides, usando as ferramentas como o Power Point, Canva...
 
-[ver apresentação][Apresentação informatica final.pptx](https://github.com/user-attachments/files/17000044/Apresentacao.informatica.final.pptx)
+[ver apresentação](Apresentação informatica final.pptx)(https://github.com/user-attachments/files/17000044/Apresentacao.informatica.final.pptx)
 
 
 2 - Atividade Usando Formulas e Dados Abertos
