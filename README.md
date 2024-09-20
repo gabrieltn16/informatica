@@ -25,6 +25,8 @@ Utilizando dados abertos para responder as perguntas propostas.
 
 [ver atividade](https://github.com/user-attachments/files/17068368/trabalho.1.informatica.xlsx)
 
+![Capturar](https://github.com/user-attachments/assets/f10f0cfc-5bfc-41e9-829f-3b6f4952abfe)
+
 
 Execício 2 - Revisão de Formulas e Dados Abertos
 
