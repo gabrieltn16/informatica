@@ -23,5 +23,8 @@ Apresentação teve como princípal objetivo, dividir aos colegas suas caracter�
 
 A atividade foi proposta com o principal objetivo de ensinar a usabilidade das seguintes formulas: SOMA, CONT.SE, SOMASE, SE.
 Utilizando dados abertos para responder as perguntas propostas.
+
+A atividade foi feita com as seguintes formulas: SOMASE e SOMASES
+
 [ver atividade](https://github.com/user-attachments/files/17068268/Trabalho.Informatica.2.xlsx)
 
