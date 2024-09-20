@@ -1,4 +1,4 @@
-# Apredizagem Informatica - Logistica 1° Semestre
+# Informatica Aplicada - Logistica 1° Semestre
 
 Template para as atividades em Informática Aplicada, aprendendo a utilização do repositório digital GitHub, Exel, Power BI etc. 
 
