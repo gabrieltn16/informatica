@@ -37,6 +37,10 @@ A atividade foi feita com as seguintes formulas: SOMASE e SOMASES
 
 [ver atividade](https://github.com/user-attachments/files/17081431/Trabalho.Informatica.2.xlsx)
 
+![foto3](https://github.com/user-attachments/assets/5803f631-95db-4f27-b9df-459362b21870)
+![foto2](https://github.com/user-attachments/assets/2a6820ee-073c-4603-9cb0-0c3adc24f997)
+![foto1](https://github.com/user-attachments/assets/ab86b58c-881a-4833-befc-caf128859435)
+
 
 # Equipe
 | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
