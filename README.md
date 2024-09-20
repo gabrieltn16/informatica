@@ -33,7 +33,8 @@ Utilizando dados abertos para responder as perguntas propostas.
 
 A atividade foi feita com as seguintes formulas: SOMASE e SOMASES
 
-[ver atividade](https://github.com/user-attachments/files/17068268/Trabalho.Informatica.2.xlsx)
+[ver atividade](https://github.com/user-attachments/files/17068268/Trabalho.Informatica.2.xlsx)[Trabalho.Informatica.2.xlsx](https://github.com/user-attachments/files/17081431/Trabalho.Informatica.2.xlsx)
+
 
 # Equipe
 | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
