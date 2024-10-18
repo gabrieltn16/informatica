@@ -47,6 +47,11 @@ A atividade foi proposta com o principal objetivo de ensinar a usabilidade da fe
 
 ![Power bi 1](https://github.com/user-attachments/assets/3a80e091-4b47-410a-ae16-9f429618f0a2)
 
+Execício 2 Power BI - Formulas e Dados Abertos
+
+A atividade foi proposta com o principal objetivo de treinar o uso da ferramenta Power BI 
+
+![Capturar](https://github.com/user-attachments/assets/588ec889-2b12-428c-a3df-ce0b29f16a1a)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
