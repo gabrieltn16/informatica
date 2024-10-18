@@ -41,6 +41,13 @@ A atividade foi feita com as seguintes formulas: SOMASE e SOMASES
 ![foto2](https://github.com/user-attachments/assets/2a6820ee-073c-4603-9cb0-0c3adc24f997)
 ![foto1](https://github.com/user-attachments/assets/ab86b58c-881a-4833-befc-caf128859435)
 
+Execício 1 Power BI - Formulas e Dados Abertos
+
+A atividade foi proposta com o principal objetivo de ensinar a usabilidade da ferramenta Power BI 
+
+![Power bi 1](https://github.com/user-attachments/assets/3a80e091-4b47-410a-ae16-9f429618f0a2)
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Equipe
