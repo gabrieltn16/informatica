@@ -53,6 +53,11 @@ A atividade foi proposta com o principal objetivo de treinar o uso da ferramenta
 
 ![Capturar](https://github.com/user-attachments/assets/588ec889-2b12-428c-a3df-ce0b29f16a1a)
 
+Execício 3 Power BI - Fórmulas DAX e KPI
+
+![trabalho informatica 3](https://github.com/user-attachments/assets/ef0a3fa8-85d8-4c4a-93fa-d0e1c60d1089)
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Equipe
