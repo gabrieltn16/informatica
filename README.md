@@ -57,6 +57,11 @@ Execício 3 Power BI - Fórmulas DAX e KPI
 
 ![trabalho informatica 3](https://github.com/user-attachments/assets/ef0a3fa8-85d8-4c4a-93fa-d0e1c60d1089)
 
+Execício 4 Power BI - Fórmulas DAX e KPI
+
+![Capturar](https://github.com/user-attachments/assets/9ea26566-8a00-42de-97b3-238443a49b80)
+![Capturar PNG2](https://github.com/user-attachments/assets/31977ae4-6b71-44ea-9ea8-dec3de1934b7)
+![Capturar PNG1](https://github.com/user-attachments/assets/42c98d0e-5944-45e8-b776-63e725ababe5)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
