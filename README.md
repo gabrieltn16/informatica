@@ -63,6 +63,14 @@ Execício 4 Power BI - Fórmulas DAX e KPI
 ![Capturar PNG2](https://github.com/user-attachments/assets/31977ae4-6b71-44ea-9ea8-dec3de1934b7)
 ![Capturar PNG1](https://github.com/user-attachments/assets/42c98d0e-5944-45e8-b776-63e725ababe5)
 
+Execício 4 Power Apps - Crianção de APP de Controle de Estoque
+
+![setor](https://github.com/user-attachments/assets/31dcb4db-d5f1-42ba-9c7e-92b363f5342a)
+![movimentação](https://github.com/user-attachments/assets/2d6e2613-5848-43b8-8429-bc32823ebeed)
+![material](https://github.com/user-attachments/assets/ed7233e8-a108-4167-86a3-88be2892aa12)
+![tela inicial](https://github.com/user-attachments/assets/b1249357-f077-43a0-bae0-0a7aecf26a2e)
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Equipe
