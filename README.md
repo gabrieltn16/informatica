@@ -95,6 +95,7 @@ Execício 1 Power Apps - Crianção de APP de Controle de Estoque
 ![Capturar prova1](https://github.com/user-attachments/assets/ea9c72ef-a29f-430a-9ec6-5a768f4b7912)
 ![Capturar prova2](https://github.com/user-attachments/assets/c1c67867-3429-4ca6-87ed-689246847b44)
 ![Capturar prova3](https://github.com/user-attachments/assets/9c9af3ff-2c29-482c-b455-6858dfa59dfb)
+![Power BI](https://github.com/user-attachments/assets/d734c349-fa02-432b-8ce5-a30221100805)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
